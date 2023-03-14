@@ -1,5 +1,7 @@
 # sudoku-solver-algorithm
-**This project features a sudoku solver algorithm programmed in C++ featuring backpropagation.**
+**READ: I coded this a long time ago when I did not have a lot of experience programming. Therefore, the code is weirdly coded, badly commented and inefficient. It is not representative of my current work.**
+
+This project features a sudoku solver algorithm programmed in C++ featuring backpropagation.
 
 ## Usage
 The script uses the CLI as a user interface. Run the [Sudoku](https://github.com/etiennecollin/sudoku-solver-algorithm/blob/main/Sudoku) file in your terminal.
